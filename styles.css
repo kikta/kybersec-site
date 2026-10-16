@@ -21,15 +21,16 @@
 }
 
 :root {
-  --paper: #e9edef;
-  --ink: #142231;
-  --muted: #4a5866;
-  --rule: #c2cbd2;
-  --accent: #9e2a22;
-  --hero-bg: #142231;
-  --hero-ink: #e9edef;
-  --hero-muted: #a9b6c2;
-  --hero-accent: #e58a7c;
+  --paper: #eef1f5;
+  --ink: #121c33;
+  --head: #061a86;
+  --muted: #4d5a6e;
+  --rule: #c9d1dc;
+  --accent: #0684f4;
+  --hero-bg: #08103f;
+  --hero-ink: #f2f5f7;
+  --hero-muted: #aab5d4;
+  --hero-accent: #06d3f4;
   --sans: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
   --wrap: 72rem;
@@ -38,12 +39,13 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --paper: #0f1923;
-    --ink: #e2e7ea;
-    --muted: #9aa7b2;
-    --rule: #26384a;
-    --accent: #e58a7c;
-    --hero-bg: #0a121a;
+    --paper: #0b1230;
+    --ink: #e4e9f2;
+    --head: #e4e9f2;
+    --muted: #9aa6c0;
+    --rule: #243063;
+    --accent: #06a5f4;
+    --hero-bg: #060b2a;
   }
 }
 
@@ -87,11 +89,8 @@ a:hover { text-decoration-thickness: 2.5px; }
   padding-block: 1.25rem;
   font-family: var(--sans);
 }
-.wordmark {
-  font-weight: 750; font-size: 1.25rem; letter-spacing: -0.01em;
-  text-decoration: none;
-}
-.wordmark .llc { font-weight: 400; color: var(--hero-muted); margin-left: 0.35em; }
+.wordmark { display: block; line-height: 0; }
+.wordmark img { display: block; height: clamp(2.5rem, 5vw, 3.25rem); width: auto; }
 .masthead nav ul { list-style: none; margin: 0; padding: 0; display: flex; gap: 1.5rem; }
 .masthead nav a { text-decoration: none; font-size: 1rem; color: var(--hero-muted); }
 .masthead nav a:hover { color: var(--hero-ink); text-decoration: underline; text-decoration-color: var(--accent); }
@@ -126,6 +125,7 @@ a:hover { text-decoration-thickness: 2.5px; }
 }
 
 h2 {
+  color: var(--head);
   font-family: var(--sans);
   font-weight: 650;
   font-size: 1.25rem;
@@ -137,6 +137,7 @@ h2 {
 .services > div { padding-block: 1.5rem; border-top: 1px solid var(--rule); }
 .services > div:first-child { border-top: 0; padding-top: 0; }
 .services dt {
+  color: var(--head);
   font-family: var(--sans);
   font-weight: 650;
   font-size: 1.1875rem;
