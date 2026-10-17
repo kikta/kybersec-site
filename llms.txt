@@ -6,9 +6,9 @@ Jason Kikta is a retired U.S. Marine Corps officer who spent seven years at U.S.
 
 ## Pages
 
-- [Services](https://www.kybersec.llc/services/): What KyberSec does, one paragraph per service
-- [About](https://www.kybersec.llc/about/): Jason Kikta's background and affiliations
-- [Contact](https://www.kybersec.llc/contact/): Signal, email, LinkedIn, and guidance for reaching out during an active incident
+- [Services](https://www.kybersec.llc/#services): What KyberSec does, one paragraph per service
+- [About](https://www.kybersec.llc/#about): Jason Kikta's background and affiliations
+- [Contact](https://www.kybersec.llc/#contact): Signal, email, LinkedIn, and guidance for reaching out during an active incident
 
 ## Optional
 
