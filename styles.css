@@ -187,3 +187,4 @@ h2 {
 .service-names a { text-decoration: none; }
 .service-names a:hover { text-decoration: underline; text-decoration-color: var(--accent); }
 .services > div { scroll-margin-top: 1.5rem; }
+.hero h1:last-child { margin-bottom: 0; }
