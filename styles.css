@@ -207,3 +207,17 @@ h2 {
 .contact-list li a { padding-block: 0; }
 .handle { font-weight: 600; }
 .contact-list li:has(> a:only-child) a { padding-block: 0.6rem; }
+
+/* Contact layout */
+.contact-grid { display: grid; gap: 2.5rem; }
+@media (min-width: 52rem) {
+  .contact-grid { grid-template-columns: minmax(0, 64ch) 14rem; gap: 4rem; align-items: start; }
+}
+.contact-list li { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0 1rem; padding-block: 0.35rem; }
+.contact-list .label { font-weight: 400; color: var(--muted); min-width: 5.5rem; }
+.contact-list li a { padding-block: 0.4rem; }
+.qr { margin: 0; font-family: var(--sans); font-size: 0.9375rem; color: var(--muted); line-height: 1.4; }
+.qr a { display: block; line-height: 0; }
+.qr img { width: 100%; max-width: 14rem; height: auto; border-radius: 6px; border: 1px solid var(--rule); }
+.qr figcaption { margin-top: 0.6rem; max-width: 14rem; }
+@media (max-width: 51.99rem) { .qr { display: none; } }

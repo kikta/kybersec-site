@@ -2,13 +2,13 @@
 
 > KyberSec LLC is the independent security consulting practice of Jason Kikta. It advises executives, boards, and investors facing ransomware, data extortion, and state-backed threats, and advises on AI adoption and security, high-assurance architecture, and federal cyber strategy.
 
-Jason Kikta is a retired U.S. Marine Corps officer who spent seven years at U.S. Cyber Command's Cyber National Mission Force. He is an adjunct lecturer at the Johns Hopkins SAIS Alperovitch Institute and an adjunct senior technical advisor at the Institute for Security and Technology. Contact: kikta@kybersec.llc, or Signal kikta.1337.
+Jason Kikta is a retired U.S. Marine Corps officer who spent seven years at U.S. Cyber Command's Cyber National Mission Force. He is an adjunct lecturer at the Johns Hopkins SAIS Alperovitch Institute and an adjunct senior technical advisor at the Institute for Security and Technology. Contact: Signal kikta.1337 (https://signal.me/#eu/uKuiqjh27JBwfQ8UtlD77HINbyJ3RTp33RQztLLfVzUA3m6VDRRMsIzrnYrjlqFu) is fastest, or email kikta@kybersec.llc.
 
 ## Pages
 
 - [Services](https://www.kybersec.llc/services/): What KyberSec does, one paragraph per service
 - [About](https://www.kybersec.llc/about/): Jason Kikta's background and affiliations
-- [Contact](https://www.kybersec.llc/contact/): Email, Signal, LinkedIn, and guidance for reaching out during an active incident
+- [Contact](https://www.kybersec.llc/contact/): Signal, email, LinkedIn, and guidance for reaching out during an active incident
 
 ## Optional
 
