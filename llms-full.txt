@@ -6,37 +6,37 @@
 
 ### Independent advice during ransomware and extortion events
 
-When an attack is underway, I advise executives, boards, and investors as an independent voice outside the incident response and negotiation firms. That includes a second opinion on how those firms are handling the event, alternate analysis of the threat actor and its likely behavior, and modeling of response scenarios so leadership can decide with a clear view of the tradeoffs. I am a member of the Ransomware Task Force (https://securityandtechnology.org/ransomwaretaskforce/).
+When an attack is underway, I give executives, boards, and investors an independent read from outside the incident response and negotiation firms: a second opinion on how the event is being handled, alternate analysis of the threat actor, and modeling of response scenarios.
 
 ### Strategic threat analysis
 
-Assessment of political, physical, and cyber threats to a company, its platform, its supply chain, and its people, including state-backed threats to personnel in high-risk jurisdictions and executive travel into environments with elevated risk of device compromise and technical surveillance. This is the work I did for Twitter’s security leadership.
+Assessment of political, physical, and cyber threats to a company, its platform, its supply chain, and its people, including state-backed threats to staff in high-risk countries and executive travel with elevated risk of device compromise. I did this work for Twitter’s security leadership.
 
 ### Corporate AI adoption and security
 
-Guidance on putting AI to work across the enterprise: which uses are worth the risk, how to secure models, data, and agents, and what governance looks like in operation rather than on paper. Drawn from leading AI adoption and governance across every function of a security software company.
+Guidance on putting AI to work across the enterprise: which uses are worth the risk, how to secure models, data, and agents, and what governance looks like in practice. Drawn from leading AI adoption and governance across every function of a security software company.
 
 ### High-assurance security architecture
 
-Feasibility, cost, and design for environments that must hold against the most capable state-backed threats, including frontier AI labs protecting model weights. I served on the executive committee of the Security Level 5 Task Force (https://securityandtechnology.org/sl5/), which developed a security standard for frontier AI systems.
+Feasibility, cost, and design for environments that must hold against the most capable state-backed threats, including frontier AI labs protecting model weights. I served on the executive committee of the Security Level 5 Task Force (https://securityandtechnology.org/sl5/), which wrote a security standard for frontier AI.
 
 ### Federal and defense cyber strategy
 
-Advice for commercial companies selling into government: teaming agreements with prime contractors, pricing and contract structure, and how to present capability to government buyers.
+Advice for commercial companies selling into government: teaming agreements with prime contractors, pricing and contract structure, and how to present capability to government buyers. Grounded in seven years at US Cyber Command, where I built its partnerships with industry.
 
 ### Briefings
 
-Executive and board briefings on the threat actors most likely to target your organization, recent incidents in your sector, and policy changes that affect you.
+Executive and board briefings on the threat actors most likely to target your organization, recent incidents in your sector, and policy changes that affect you. Drawn from current policy work at the Institute for Security and Technology and teaching at Johns Hopkins SAIS.
 
 ## About Jason Kikta
 
-Jason Kikta has more than 30 years in information technology across industry, the US military, and academia. He founded KyberSec in 2022 to advise corporate leadership, boards, and investors through ransomware and data extortion attacks and to work on security for frontier AI. He is a strategic advisor to Turen Labs, where he advises on AI model evaluations for network defenders. He is also an adjunct senior technical advisor at the Institute for Security and Technology’s Center for Advancing Cybersecurity and an adjunct lecturer at the Alperovitch Institute for Cybersecurity Studies at Johns Hopkins SAIS, where he teaches a graduate course on how intelligence agencies conduct espionage and covert action in cyberspace.
+Jason Kikta has more than 30 years in information technology across industry, the US military, and academia. He founded KyberSec in 2022. He is a strategic advisor to Turen Labs on AI model evaluations for network defenders, an adjunct senior technical advisor at the Institute for Security and Technology’s Center for Advancing Cybersecurity, and an adjunct lecturer at the Alperovitch Institute at Johns Hopkins SAIS, where he teaches a graduate course on espionage and covert action in cyberspace.
 
-From 2022 to 2026, he was CISO of an endpoint management and security software company, serving concurrently as SVP of Product from 2023 to 2025 and as CTO from 2025 to 2026. He took a rudimentary security program to zero SOC 2 findings and a 100 percent win rate in security-focused sales evaluations with no significant breach, signed the CISA Secure by Design Pledge as an inaugural signatory, and led the company’s AI governance and frontier-model security work. At IST, he served on the executive committee of the Security Level 5 Task Force, which developed a standard for securing frontier AI systems against the most capable state-backed threats. Earlier, as a part-time consultant, he advised Twitter’s CSO and CISO on political, physical, and cyber threats, including executive protection and travel risk.
+From 2022 to 2026, he was CISO of an endpoint management and security software company, adding SVP of Product and later CTO. He took a rudimentary security program to zero SOC 2 findings with no significant breach, signed the CISA Secure by Design Pledge as an inaugural signatory, and led the company’s AI governance. He also served on the executive committee of IST’s Security Level 5 Task Force and advised Twitter’s CSO and CISO on political, physical, and cyber threats.
 
-Jason spent seven years at US Cyber Command’s Cyber National Mission Force. He joined as its 14th member, created the initial tactical concepts for DoD’s first hunt and incident response teams, and directed the force’s first two years of incident response operations against state-backed intrusions. He later founded the command’s private sector operational collaboration program with hundreds of companies and sector ISACs. He also built the Hunt Forward program, which deploys teams to partner nations’ networks at their request, ran the public disclosure program that exposed adversary tools and shifted the government’s approach to releasing threat intelligence, and led enable defense for the 2018 and 2020 election security missions.
+He spent seven years at US Cyber Command’s Cyber National Mission Force, joining as its 14th member. He created the initial concepts for DoD’s first hunt and incident response teams, directed the force’s first two years of incident response against state-backed intrusions, founded its private sector collaboration program, built Hunt Forward, ran the public disclosure of adversary tools, and led enable defense for the 2018 and 2020 elections.
 
-He retired from the US Marine Corps as a major after more than 23 years, rising from enlisted IT technician to communications officer. He deployed twice to Afghanistan, first running a combat operations center and later overseeing communications, cryptographic custody, and physical and personnel security during the major force drawdown. He deployed to the Mediterranean and Middle East with the 26th Marine Expeditionary Unit and supported hurricane relief in the US Virgin Islands, Puerto Rico, and Key West. With the Chemical Biological Incident Response Force, he commanded CBRNE response elements at National Special Security Events, including a presidential inauguration and a G-20 summit. He is a four-time recipient of the Defense Meritorious Service Medal and holds a BS in Applied Science from Miami University. His commentary on cyber policy and state-backed operations has appeared in The Washington Post, CNN, Politico, and Bloomberg.
+He retired from the US Marine Corps as a major after more than 23 years, rising from enlisted IT technician to communications officer, with two deployments to Afghanistan and command of CBRNE response elements at National Special Security Events. His commentary has appeared in The Washington Post, CNN, Politico, and Bloomberg.
 
 ## Contact
 
