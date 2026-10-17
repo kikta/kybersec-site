@@ -3,26 +3,63 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; font-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; font-src 'self'; img-src 'self'; manifest-src 'self'; base-uri 'none'; form-action 'none'">
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <title>Services | KyberSec LLC</title>
-  <meta name="description" content="KyberSec LLC is the independent security consulting practice of Jason Kikta, advising executives, boards, and investors facing ransomware, extortion, and state-backed threats.">
+  <meta name="description" content="Independent advice during ransomware and extortion events, strategic threat analysis, AI adoption and security, high-assurance architecture, federal cyber strategy, and executive briefings.">
   <link rel="canonical" href="https://www.kybersec.llc/services/">
   <meta property="og:type" content="website">
+  <meta property="og:site_name" content="KyberSec LLC">
   <meta property="og:url" content="https://www.kybersec.llc/services/">
   <meta property="og:title" content="Services | KyberSec LLC">
-  <meta property="og:description" content="KyberSec LLC is the independent security consulting practice of Jason Kikta, advising executives, boards, and investors facing ransomware, extortion, and state-backed threats.">
+  <meta property="og:description" content="Independent advice during ransomware and extortion events, strategic threat analysis, AI adoption and security, high-assurance architecture, federal cyber strategy, and executive briefings.">
   <meta property="og:image" content="https://www.kybersec.llc/og-image.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="KyberSec logo on a navy background with the line: Independent security advice from Jason Kikta.">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="describedby" href="/llms.txt" type="text/markdown">
   <meta name="theme-color" content="#08103f">
   <link rel="preload" href="/fonts/public-sans.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/fonts/source-serif-4.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/styles.css">
+  <script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "ProfessionalService",
+   "@id": "https://www.kybersec.llc/#org",
+   "name": "KyberSec LLC",
+   "url": "https://www.kybersec.llc/",
+   "logo": "https://www.kybersec.llc/logo.svg",
+   "email": "kikta@kybersec.llc",
+   "founder": {
+    "@id": "https://www.kybersec.llc/about/#jason"
+   },
+   "description": "Independent security consulting for executives, boards, and investors facing ransomware, extortion, and state-backed threats."
+  },
+  {
+   "@type": "Person",
+   "@id": "https://www.kybersec.llc/about/#jason",
+   "name": "Jason Kikta",
+   "jobTitle": "Principal",
+   "worksFor": {
+    "@id": "https://www.kybersec.llc/#org"
+   },
+   "url": "https://www.kybersec.llc/about/",
+   "sameAs": [
+    "https://www.linkedin.com/in/jkikta",
+    "https://securityandtechnology.org/person/jason-kikta/"
+   ]
+  }
+ ]
+}
+  </script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -37,44 +74,53 @@
         </ul>
       </nav>
     </div>
-    <div class="wrap hero hero-page">
-      <h1>Services</h1>
-      <p class="hero-sub">Engagements are scoped projects or ongoing advisory.</p>
-    </div>
   </header>
-
-  <main id="main" class="wrap page-body">
-        <dl class="services">
-          <div id="independent-advice-during-ransomware-and-extortion-events">
-            <dt>Independent advice during ransomware and extortion events</dt>
-            <dd>When an attack is underway, I advise executives, boards, and investors as an independent voice outside the incident response and negotiation firms. That includes a second opinion on how those firms are handling the event, alternate analysis of the threat actor and its likely behavior, and modeling of response scenarios so leadership can decide with a clear view of the tradeoffs.</dd>
-          </div>
-          <div id="strategic-threat-analysis">
-            <dt>Strategic threat analysis</dt>
-            <dd>Assessment of political, physical, and cyber threats to a company, its platform, its supply chain, and its people, including state-backed threats to personnel in high-risk jurisdictions and executive travel into environments with elevated risk of device compromise and technical surveillance. This is the work I did for Twitter&rsquo;s security leadership.</dd>
-          </div>
-          <div id="corporate-ai-adoption-and-security">
-            <dt>Corporate AI adoption and security</dt>
-            <dd>Practical guidance on putting AI to work across the enterprise: where it creates real value, how to secure models, data, and agents, and what governance looks like in operation rather than on paper. Drawn from running AI governance and deployment across every function of a security company.</dd>
-          </div>
-          <div id="high-assurance-security-architecture">
-            <dt>High-assurance security architecture</dt>
-            <dd>Feasibility, cost, and design for environments that must hold against the most capable state-backed threats, including frontier AI labs.</dd>
-          </div>
-          <div id="federal-and-defense-cyber-strategy">
-            <dt>Federal and defense cyber strategy</dt>
-            <dd>Advice for companies on positioning, partnerships, and capability for government cyber work.</dd>
-          </div>
-          <div id="briefings">
-            <dt>Briefings</dt>
-            <dd>Executive and board briefings on the threat landscape and cyber policy.</dd>
-          </div>
-        </dl>
-    <p class="more"><a href="/contact/">Discuss an engagement</a></p>
+  <main id="main" tabindex="-1">
+    <div class="hero-band">
+      <div class="wrap hero hero-page">
+        <h1>Services</h1>
+      <p class="hero-sub">Engagements are scoped projects or ongoing advisory.</p>
+      </div>
+    </div>
+    <div class="wrap page-body">
+      <div class="services">
+      <section class="service" id="independent-advice-during-ransomware-and-extortion-events" aria-labelledby="independent-advice-during-ransomware-and-extortion-events-h">
+        <h2 id="independent-advice-during-ransomware-and-extortion-events-h">Independent advice during ransomware and extortion events</h2>
+        <p>When an attack is underway, I advise executives, boards, and investors as an independent voice outside the incident response and negotiation firms. That includes a second opinion on how those firms are handling the event, alternate analysis of the threat actor and its likely behavior, and modeling of response scenarios so leadership can decide with a clear view of the tradeoffs. I am a member of the <a href="https://securityandtechnology.org/ransomwaretaskforce/">Ransomware Task Force</a>.</p>
+      </section>
+      <section class="service" id="strategic-threat-analysis" aria-labelledby="strategic-threat-analysis-h">
+        <h2 id="strategic-threat-analysis-h">Strategic threat analysis</h2>
+        <p>Assessment of political, physical, and cyber threats to a company, its platform, its supply chain, and its people, including state-backed threats to personnel in high-risk jurisdictions and executive travel into environments with elevated risk of device compromise and technical surveillance. This is the work I did for Twitter&rsquo;s security leadership.</p>
+      </section>
+      <section class="service" id="corporate-ai-adoption-and-security" aria-labelledby="corporate-ai-adoption-and-security-h">
+        <h2 id="corporate-ai-adoption-and-security-h">Corporate AI adoption and security</h2>
+        <p>Guidance on putting AI to work across the enterprise: which uses are worth the risk, how to secure models, data, and agents, and what governance looks like in operation rather than on paper. Drawn from leading AI adoption and governance across every function of a security software company.</p>
+      </section>
+      <section class="service" id="high-assurance-security-architecture" aria-labelledby="high-assurance-security-architecture-h">
+        <h2 id="high-assurance-security-architecture-h">High-assurance security architecture</h2>
+        <p>Feasibility, cost, and design for environments that must hold against the most capable state-backed threats, including frontier AI labs protecting model weights. I served on the executive committee of the <a href="https://securityandtechnology.org/sl5/">Security Level&nbsp;5 Task Force</a>, which developed a security standard for frontier AI systems.</p>
+      </section>
+      <section class="service" id="federal-and-defense-cyber-strategy" aria-labelledby="federal-and-defense-cyber-strategy-h">
+        <h2 id="federal-and-defense-cyber-strategy-h">Federal and defense cyber strategy</h2>
+        <p>Advice for commercial companies selling into government: teaming agreements with prime contractors, pricing and contract structure, and how to present capability to government buyers.</p>
+      </section>
+      <section class="service" id="briefings" aria-labelledby="briefings-h">
+        <h2 id="briefings-h">Briefings</h2>
+        <p>Executive and board briefings on the threat actors most likely to target your organization, recent incidents in your sector, and policy changes that affect you.</p>
+      </section>
+      </div>
+      <p class="more"><a href="/contact/">Contact me about an engagement</a></p>
+    </div>
   </main>
 
   <footer class="footer">
-    <div class="wrap"><p>&copy; 2026 KyberSec LLC</p></div>
+    <div class="wrap footer-inner">
+      <p>&copy; 2026 KyberSec LLC, a Delaware limited liability company</p>
+      <ul>
+        <li><a href="mailto:kikta@kybersec.llc">kikta@kybersec.llc</a></li>
+        <li><a href="https://www.linkedin.com/in/jkikta" rel="noopener">LinkedIn</a></li>
+      </ul>
+    </div>
   </footer>
 </body>
 </html>

@@ -3,26 +3,63 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; font-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; font-src 'self'; img-src 'self'; manifest-src 'self'; base-uri 'none'; form-action 'none'">
   <meta name="referrer" content="strict-origin-when-cross-origin">
-  <title>KyberSec LLC</title>
+  <title>KyberSec LLC | Jason Kikta</title>
   <meta name="description" content="KyberSec LLC is the independent security consulting practice of Jason Kikta, advising executives, boards, and investors facing ransomware, extortion, and state-backed threats.">
   <link rel="canonical" href="https://www.kybersec.llc/">
   <meta property="og:type" content="website">
+  <meta property="og:site_name" content="KyberSec LLC">
   <meta property="og:url" content="https://www.kybersec.llc/">
-  <meta property="og:title" content="KyberSec LLC">
+  <meta property="og:title" content="KyberSec LLC | Jason Kikta">
   <meta property="og:description" content="KyberSec LLC is the independent security consulting practice of Jason Kikta, advising executives, boards, and investors facing ransomware, extortion, and state-backed threats.">
   <meta property="og:image" content="https://www.kybersec.llc/og-image.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="KyberSec logo on a navy background with the line: Independent security advice from Jason Kikta.">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="describedby" href="/llms.txt" type="text/markdown">
   <meta name="theme-color" content="#08103f">
   <link rel="preload" href="/fonts/public-sans.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/fonts/source-serif-4.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/styles.css">
+  <script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "ProfessionalService",
+   "@id": "https://www.kybersec.llc/#org",
+   "name": "KyberSec LLC",
+   "url": "https://www.kybersec.llc/",
+   "logo": "https://www.kybersec.llc/logo.svg",
+   "email": "kikta@kybersec.llc",
+   "founder": {
+    "@id": "https://www.kybersec.llc/about/#jason"
+   },
+   "description": "Independent security consulting for executives, boards, and investors facing ransomware, extortion, and state-backed threats."
+  },
+  {
+   "@type": "Person",
+   "@id": "https://www.kybersec.llc/about/#jason",
+   "name": "Jason Kikta",
+   "jobTitle": "Principal",
+   "worksFor": {
+    "@id": "https://www.kybersec.llc/#org"
+   },
+   "url": "https://www.kybersec.llc/about/",
+   "sameAs": [
+    "https://www.linkedin.com/in/jkikta",
+    "https://securityandtechnology.org/person/jason-kikta/"
+   ]
+  }
+ ]
+}
+  </script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -37,33 +74,34 @@
         </ul>
       </nav>
     </div>
-    <div class="wrap hero">
-      <h1>Independent security advice for executives, boards, and investors facing capable adversaries.</h1>
-    </div>
   </header>
-
-  <main id="main">
-    <section class="band" aria-labelledby="services-h">
-      <div class="wrap grid">
-        <h2 id="services-h">Services</h2>
-        <div>
-          <ul class="service-names">
-            <li><a href="/services/#independent-advice-during-ransomware-and-extortion-events">Independent advice during ransomware and extortion events</a></li>
-            <li><a href="/services/#strategic-threat-analysis">Strategic threat analysis</a></li>
-            <li><a href="/services/#corporate-ai-adoption-and-security">Corporate AI adoption and security</a></li>
-            <li><a href="/services/#high-assurance-security-architecture">High-assurance security architecture</a></li>
-            <li><a href="/services/#federal-and-defense-cyber-strategy">Federal and defense cyber strategy</a></li>
-            <li><a href="/services/#briefings">Briefings</a></li>
-          </ul>
-          <p class="more"><a href="/services/">How each engagement works</a></p>
-        </div>
+  <main id="main" tabindex="-1">
+    <div class="hero-band">
+      <div class="wrap hero">
+        <h1>Independent security advice for executives, boards, and investors facing capable adversaries.</h1>
       </div>
+    </div>
+    <section class="wrap page-body" aria-labelledby="services-h">
+      <h2 id="services-h" class="section-label">Services</h2>
+      <ul class="service-names">
+          <li><a href="/services/#independent-advice-during-ransomware-and-extortion-events">Independent advice during ransomware and extortion events</a></li>
+          <li><a href="/services/#strategic-threat-analysis">Strategic threat analysis</a></li>
+          <li><a href="/services/#corporate-ai-adoption-and-security">Corporate AI adoption and security</a></li>
+          <li><a href="/services/#high-assurance-security-architecture">High-assurance security architecture</a></li>
+          <li><a href="/services/#federal-and-defense-cyber-strategy">Federal and defense cyber strategy</a></li>
+          <li><a href="/services/#briefings">Briefings</a></li>
+      </ul>
     </section>
-
   </main>
 
   <footer class="footer">
-    <div class="wrap"><p>&copy; 2026 KyberSec LLC</p></div>
+    <div class="wrap footer-inner">
+      <p>&copy; 2026 KyberSec LLC, a Delaware limited liability company</p>
+      <ul>
+        <li><a href="mailto:kikta@kybersec.llc">kikta@kybersec.llc</a></li>
+        <li><a href="https://www.linkedin.com/in/jkikta" rel="noopener">LinkedIn</a></li>
+      </ul>
+    </div>
   </footer>
 </body>
 </html>

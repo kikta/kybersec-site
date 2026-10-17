@@ -1,0 +1,20 @@
+{
+  "name": "KyberSec LLC",
+  "short_name": "KyberSec",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#eef1f5",
+  "theme_color": "#08103f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ]
+}

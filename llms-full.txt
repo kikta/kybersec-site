@@ -1,0 +1,46 @@
+# KyberSec LLC
+
+> Independent security advice for executives, boards, and investors facing capable adversaries.
+
+## Services
+
+### Independent advice during ransomware and extortion events
+
+When an attack is underway, I advise executives, boards, and investors as an independent voice outside the incident response and negotiation firms. That includes a second opinion on how those firms are handling the event, alternate analysis of the threat actor and its likely behavior, and modeling of response scenarios so leadership can decide with a clear view of the tradeoffs. I am a member of the Ransomware Task Force (https://securityandtechnology.org/ransomwaretaskforce/).
+
+### Strategic threat analysis
+
+Assessment of political, physical, and cyber threats to a company, its platform, its supply chain, and its people, including state-backed threats to personnel in high-risk jurisdictions and executive travel into environments with elevated risk of device compromise and technical surveillance. This is the work I did for Twitter’s security leadership.
+
+### Corporate AI adoption and security
+
+Guidance on putting AI to work across the enterprise: which uses are worth the risk, how to secure models, data, and agents, and what governance looks like in operation rather than on paper. Drawn from leading AI adoption and governance across every function of a security software company.
+
+### High-assurance security architecture
+
+Feasibility, cost, and design for environments that must hold against the most capable state-backed threats, including frontier AI labs protecting model weights. I served on the executive committee of the Security Level 5 Task Force (https://securityandtechnology.org/sl5/), which developed a security standard for frontier AI systems.
+
+### Federal and defense cyber strategy
+
+Advice for commercial companies selling into government: teaming agreements with prime contractors, pricing and contract structure, and how to present capability to government buyers.
+
+### Briefings
+
+Executive and board briefings on the threat actors most likely to target your organization, recent incidents in your sector, and policy changes that affect you.
+
+## About Jason Kikta
+
+Jason Kikta founded KyberSec in 2022 after more than 23 years in the U.S. Marine Corps, where he rose from enlisted IT technician to major.
+
+He spent seven years at U.S. Cyber Command’s Cyber National Mission Force, joining as its fourteenth member. He developed the operating concepts for its first hunt and incident response teams and led responses to intrusions on critical Defense Department networks. He founded the command’s private-sector partnership program, built Hunt Forward, ran the public threat-disclosure program, and led election defense work for 2018 and 2020. He also applied machine learning to mission operations years before generative AI arrived.
+
+In industry, he was strategic threat consultant to Twitter’s CSO and CISO, advising on political, physical, and cyber threats to the company, its platform, and its people. He then spent four years as CISO, and later CTO, of an endpoint management and security software company. There he built the security program from a rudimentary state to zero SOC 2 findings, took platform uptime from two nines to five, and led AI adoption and governance across every function of the business.
+
+He teaches Cyber-Enabled Intelligence and Covert Action at the Johns Hopkins SAIS Alperovitch Institute. At the Institute for Security and Technology, he is an adjunct senior technical advisor and a member of the Ransomware Task Force, and he served on the executive committee of the Security Level 5 Task Force, which developed a security standard for frontier AI systems. He is also a strategic advisor to Turen Labs. His commentary has appeared in The Washington Post, CNN, Politico, Bloomberg, and Krebs on Security.
+
+## Contact
+
+Email: kikta@kybersec.llc
+LinkedIn: https://www.linkedin.com/in/jkikta
+
+During an active incident, if your organization's email or devices may be compromised, make first contact from a personal device and a personal account.
