@@ -163,3 +163,27 @@ h2 {
   color: var(--muted);
 }
 .footer p { margin: 0; }
+
+/* Multi-page additions */
+.masthead nav a[aria-current="page"] {
+  color: var(--hero-ink);
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.4em;
+}
+.hero-page { padding-block: clamp(2.5rem, 6vw, 4.5rem) clamp(2rem, 5vw, 3.5rem); }
+.hero-page h1 { font-size: clamp(2.25rem, 5vw, 3.5rem); margin-bottom: 0.75rem; }
+.hero-page .hero-sub { margin-bottom: 0; }
+.page-body { padding-block: clamp(2.5rem, 6vw, 4.5rem); }
+.page-body > .services, .page-body > .prose { max-width: 64ch; }
+.page-body > .services > div:first-child { padding-top: 0; }
+
+.service-names { list-style: none; margin: 0; padding: 0; font-family: var(--sans); font-weight: 600; color: var(--head); font-size: 1.125rem; line-height: 1.35; }
+.service-names li { padding-block: 0.75rem; border-top: 1px solid var(--rule); }
+.service-names li:first-child { border-top: 0; padding-top: 0; }
+.more { font-family: var(--sans); font-weight: 600; margin: 1.5rem 0 0; }
+.prose .more { margin-top: 1.25rem; }
+.service-names a { text-decoration: none; }
+.service-names a:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+.services > div { scroll-margin-top: 1.5rem; }
