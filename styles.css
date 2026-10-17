@@ -245,3 +245,4 @@ h3 {
 }
 .prose h3 { margin: 2.25rem 0 0.5rem; }
 .facts h3 { font-size: 1rem; margin-bottom: 0.5rem; }
+.qr img { border: 0; border-radius: 0; }
