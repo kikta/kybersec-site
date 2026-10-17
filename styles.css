@@ -203,3 +203,7 @@ h2 {
 .footer ul a { display: inline-block; padding: 0.6rem 0.5rem; color: var(--ink); }
 .facts a, .more a { display: inline-block; padding-block: 0.4rem; }
 .facts li { padding-block: 0.25rem; }
+.contact-list li { padding-block: 0.6rem; }
+.contact-list li a { padding-block: 0; }
+.handle { font-weight: 600; }
+.contact-list li:has(> a:only-child) a { padding-block: 0.6rem; }

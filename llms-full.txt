@@ -41,6 +41,7 @@ He teaches Cyber-Enabled Intelligence and Covert Action at the Johns Hopkins SAI
 ## Contact
 
 Email: kikta@kybersec.llc
+Signal: kikta.1337
 LinkedIn: https://www.linkedin.com/in/jkikta
 
-During an active incident, if your organization's email or devices may be compromised, make first contact from a personal device and a personal account.
+During an active incident, if your organization's email or devices may be compromised, message Jason on Signal at kikta.1337 from a personal device.
