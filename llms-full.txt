@@ -24,7 +24,7 @@ Feasibility, cost, and design for environments that must hold against the most c
 
 Advice for commercial companies selling into government: teaming agreements with prime contractors, pricing and contract structure, and how to present capability to government buyers. Grounded in seven years at US Cyber Command, where I built its partnerships with industry.
 
-### Briefings
+### Board and executive advisory
 
 Executive and board briefings on the threat actors most likely to target your organization, recent incidents in your sector, and policy changes that affect you. Drawn from current policy work at the Institute for Security and Technology and teaching at Johns Hopkins SAIS.
 
